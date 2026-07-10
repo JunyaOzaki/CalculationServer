@@ -108,7 +108,7 @@ CalculationServerは最初から完成を目指さない。
 この重複は保守性を低下させ、検算や修正のコストを増大させる。  
 CalculationServerはこれらの演算ロジックを一元管理し、共通の計算基盤として提供することを目的とする。
 
-## Development Policy
+### Development Policy
 CalculationServerはAIを活用して開発を行う。  
 ただし、以下を前提として進める。
 - 設計判断は人が行う。
