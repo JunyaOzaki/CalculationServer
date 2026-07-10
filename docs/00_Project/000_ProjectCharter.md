@@ -1,4 +1,4 @@
-# Project Charter（ドラフト v0.1）
+# Project Charter -プロジェクト憲章-（ドラフト v0.1）
 
 ## プロジェクト名
 CalculationServer
