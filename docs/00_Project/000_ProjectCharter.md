@@ -64,3 +64,11 @@ CalculationServerは、生産ラインにおける計算・設定基盤を提供
 Excel互換やGUIは、その目的を実現するための手段であり、目的そのものではない。  
 設計・実装・機能追加を行う際は、常にこの原則に立ち返る。  
 
+### No Goal
+CalculationServerは以下を目的としない
+- Excelの完全互換
+- Microsoft Officeの代替
+- 高機能な表計算ソフトの提供
+- グラフ編集
+- マクロ(VBA)実行
+- 印刷機能
