@@ -1,3 +1,11 @@
+---
+Version: 0.xx
+Status: Draft
+Last Updated: 2026-07-11
+Owner: Junya Ozaki
+Reviewer: Ark (ChatGPT)
+---
+
 # AI Constitution
 
 ## Purpose
