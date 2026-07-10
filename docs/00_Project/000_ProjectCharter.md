@@ -40,6 +40,19 @@ CalculationServerは、
 を提供する。   
 GUIは、現在の状態をリアルタイムに見える・編集出来るようにする
 
+## Excel互換の範囲
+今後、段階的に互換レベルを検証し進めていく
+
+- Level1
+  基本演算処理
+
+- Level2
+  Lookupなどの応用演算処理
+
+- Level3
+  Dynamic Array（スピル）
+
+
 ## 設計理念
 ### Design Principles
 1. Core is Forever
