@@ -85,3 +85,7 @@ CalculationServerは以下を目的としない
 - グラフ編集
 - マクロ(VBA)実行
 - 印刷機能
+
+### Evolution First
+CalculationServerは最初から完成を目指さない。  
+継続的に機能追加できる設計を優先する。
