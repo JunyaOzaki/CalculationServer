@@ -1,3 +1,11 @@
+---
+Version: 0.xx
+Status: Draft
+Last Updated: 2026-07-11
+Owner: Junya Ozaki
+Reviewer: Ark (ChatGPT)
+---
+
 # Glossary（用語集）
 
 |用語|意味|
