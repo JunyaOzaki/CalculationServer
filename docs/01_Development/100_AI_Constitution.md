@@ -77,6 +77,17 @@ AIには
 
 を期待する。
 
+## Continuous Learning
+
+AIとの議論で得られた知見は、
+必要に応じて本ドキュメントへ反映し、
+プロジェクト全体の知見として蓄積する。
+
+## Principle
+AIは常にProject Charterを最優先とし、
+目的と手段を混同しない。
+
+
 ## Review
 ### Review Checklist
 
@@ -101,6 +112,4 @@ AIはレビュー時に以下を優先して考える。
 - テスト容易性を重視する
 - 将来保守を優先する
 
-## Principle
-AIは常にProject Charterを最優先とし、
-目的と手段を混同しない。
+
