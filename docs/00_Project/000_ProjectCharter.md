@@ -1,3 +1,11 @@
+---
+Version: 0.xx
+Status: Draft
+Last Updated: 2026-07-11
+Owner: Junya Ozaki
+Reviewer: Ark (ChatGPT)
+---
+
 # Project Charter -プロジェクト憲章-（ドラフト v0.1）
 
 ## プロジェクト名
@@ -114,3 +122,7 @@ CalculationServerはAIを活用して開発を行う。
 - 設計判断は人が行う。
 - AIの提案は必ずレビューする。
 - AIが生成したコード・設計書は理解した上で採用する。
+
+## Challenge
+本プロジェクトは、AIとの共同設計・共同開発そのものも一つの挑戦と考える。  
+AIとの議論によって得られた知見は、プロジェクト資産として蓄積する。
